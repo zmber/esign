@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.kinggrid.esign.common.log.LogAutoConfiguration
+org.springframework.context.ApplicationContextInitializer=\
+    com.kinggrid.esign.common.log.init.ApplicationLoggerInitializer

@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kinggrid.esign.common.core.config.JacksonConfiguration,\
+  com.kinggrid.esign.common.core.config.RedisTemplateConfiguration,\
+  com.kinggrid.esign.common.core.config.RestTemplateConfiguration,\
+  com.kinggrid.esign.common.core.util.SpringContextHolder,\
+  com.kinggrid.esign.common.core.config.WebMvcConfiguration

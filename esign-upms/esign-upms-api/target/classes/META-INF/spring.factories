@@ -1,0 +1,7 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kinggrid.esign.admin.api.feign.fallback.RemoteUserServiceFallbackImpl,\
+  com.kinggrid.esign.admin.api.feign.fallback.RemoteLogServiceFallbackImpl,\
+  com.kinggrid.esign.admin.api.feign.fallback.RemoteTokenServiceFallbackImpl,\
+  com.kinggrid.esign.admin.api.feign.factory.RemoteUserServiceFallbackFactory,\
+  com.kinggrid.esign.admin.api.feign.factory.RemoteLogServiceFallbackFactory,\
+  com.kinggrid.esign.admin.api.feign.factory.RemoteTokenServiceFallbackFactory

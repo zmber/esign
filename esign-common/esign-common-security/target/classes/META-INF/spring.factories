@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kinggrid.esign.common.security.service.EsignUserDetailsServiceImpl,\
+  com.kinggrid.esign.common.security.component.EsignSecurityInnerAspect
+

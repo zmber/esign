@@ -1,0 +1,28 @@
+2020-06-27 21:01:55,312 [main] ERROR [o.s.b.diagnostics.LoggingFailureAnalysisReporter] LoggingFailureAnalysisReporter.java:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'redisTemplate', defined in class path resource [com/pig4cloud/pig/common/core/config/RedisTemplateConfiguration.class], could not be registered. A bean with that name has already been defined in class path resource [com/kinggrid/esign/common/core/config/RedisTemplateConfiguration.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
+2020-06-27 21:04:52,404 [main] ERROR [o.s.b.diagnostics.LoggingFailureAnalysisReporter] LoggingFailureAnalysisReporter.java:40 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The bean 'redisTemplate', defined in class path resource [com/pig4cloud/pig/common/core/config/RedisTemplateConfiguration.class], could not be registered. A bean with that name has already been defined in class path resource [com/kinggrid/esign/common/core/config/RedisTemplateConfiguration.class] and overriding is disabled.
+
+Action:
+
+Consider renaming one of the beans or enabling overriding by setting spring.main.allow-bean-definition-overriding=true
+
